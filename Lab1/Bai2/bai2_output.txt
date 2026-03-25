@@ -1,0 +1,17 @@
+Action	Avg: 3,72, Count: 20
+Adventure	Avg: 3,85, Count: 30
+War	Avg: 4,00, Count: 2
+Romance	Avg: 3,75, Count: 8
+History	Avg: 4,00, Count: 6
+Sci-Fi	Avg: 3,85, Count: 20
+Drama	Avg: 3,81, Count: 76
+Thriller	Avg: 3,88, Count: 16
+Music	Avg: 3,88, Count: 4
+Crime	Avg: 3,78, Count: 20
+Biography	Avg: 4,14, Count: 14
+Fantasy	Avg: 3,95, Count: 10
+Animation	Avg: 4,17, Count: 6
+Family	Avg: 4,25, Count: 2
+Comedy	Avg: 3,96, Count: 12
+Mystery	Avg: 4,00, Count: 8
+Children	Avg: 4,25, Count: 2
