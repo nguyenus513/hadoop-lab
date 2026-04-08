@@ -7,7 +7,7 @@ Bài thực hành Hadoop MapReduce gồm 2 phần:
 
 ---
 
-## 📂 Cấu trúc thư mục
+## Cấu trúc thư mục
 HADOOP-LAB/
 ├── Lab1/
 ├── Lab2/
@@ -15,7 +15,7 @@ HADOOP-LAB/
 
 ---
 
-# 🧪 Lab 1
+# Lab 1
 
 ### Nội dung:
 - Bài 1: Tính trung bình rating theo movie
@@ -25,31 +25,31 @@ HADOOP-LAB/
 
 ---
 
-# 🧪 Lab 2
+# Lab 2
 
-## 📌 Bài 1 – Data Cleaning
+## Bài 1 – Data Cleaning
 - Chuyển chữ thường
 - Tách từ
 - Loại bỏ stopwords
 
 ---
 
-## 📌 Bài 2 – Thống kê
+## Bài 2 – Thống kê
 
-### 🔹 WordCount
+### WordCount
 - Đếm tần số xuất hiện của từ
 
-### 🔹 Top 5 Words
+### Top 5 Words
 - Lấy 5 từ xuất hiện nhiều nhất
 
-### 🔹 Category Count
+### Category Count
 - Thống kê theo category:
   - hotel
   - food
   - service
   - location
 
-### 🔹 Aspect Count
+### Aspect Count
 - Thống kê theo aspect:
   - general
   - price
@@ -59,7 +59,7 @@ HADOOP-LAB/
 
 ---
 
-## 📌 Bài 3 – Sentiment Analysis
+## Bài 3 – Sentiment Analysis
 - Thống kê số lượng:
   - positive
   - negative
@@ -67,27 +67,20 @@ HADOOP-LAB/
 
 ---
 
-## 📌 Bài 4 – Top Words theo Sentiment
+## Bài 4 – Top Words theo Sentiment
 - Với mỗi category:
   - 5 từ tích cực nhất
   - 5 từ tiêu cực nhất
 
 ---
 
-## 📌 Bài 5 – Top Words theo Category
+## Bài 5 – Top Words theo Category
 - Với mỗi category:
   - 5 từ liên quan nhất
 
 ---
 
-## 🛠 Công nghệ sử dụng
-- Hadoop MapReduce
-- Java
-- HDFS
-
----
-
-## 📊 Kết quả
+##
 - Kết quả được lưu trong thư mục:
   - `Lab2/output/`
 - Hình ảnh minh họa:
@@ -95,7 +88,7 @@ HADOOP-LAB/
 
 ---
 
-## 👨‍💻 Sinh viên thực hiện
+## Sinh viên thực hiện
 - Họ tên: Nguyễn Đỗ Đức Nguyên
 - MSSV: 21521201
 
