@@ -1,0 +1,10 @@
+general_negative	513
+general_positive	4632
+misc_negative	266
+misc_positive	46
+price_negative	81
+price_positive	624
+quality_negative	403
+quality_positive	667
+style_negative	147
+style_positive	109

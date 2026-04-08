@@ -1,0 +1,5 @@
+general	5583
+misc	335
+price	745
+quality	1164
+style	268
