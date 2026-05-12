@@ -1,0 +1,16 @@
+Số phim: 50
+Số ratings file 1: 84
+Số ratings file 2: 100
+Tổng số ratings: 184
+Số users: 50
+Số occupations: 15
+Ratings join được với movies: 184
+Ratings join được với users: 184
+
+Bài 6 - Điểm trung bình theo năm
+================================
+Year | AvgRating | TotalRatings
+-------------------------------
+2020 | 3.75 | 184
+
+Run all success: Hoàn thành 6 bài Spark RDD.

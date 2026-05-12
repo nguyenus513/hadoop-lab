@@ -1,0 +1,31 @@
+Bài 3 - Điểm trung bình theo giới tính
+======================================
+MovieID | Title | Gender | AvgRating | TotalRatings
+---------------------------------------------------
+1020 | E.T. the Extra-Terrestrial (1982) | F | 3.55 | 10
+1020 | E.T. the Extra-Terrestrial (1982) | M | 3.81 | 8
+1028 | Fight Club (1999) | F | 3.5 | 3
+1028 | Fight Club (1999) | M | 3.5 | 4
+1040 | Gladiator (2000) | F | 3.64 | 7
+1040 | Gladiator (2000) | M | 3.59 | 11
+1010 | Lawrence of Arabia (1962) | F | 3.31 | 8
+1010 | Lawrence of Arabia (1962) | M | 3.55 | 10
+1050 | Mad Max: Fury Road (2015) | F | 3.32 | 14
+1050 | Mad Max: Fury Road (2015) | M | 4.0 | 4
+1043 | No Country for Old Men (2007) | F | 3.83 | 6
+1043 | No Country for Old Men (2007) | M | 3.92 | 12
+1012 | Psycho (1960) | F | 4.0 | 2
+1015 | Sunset Boulevard (1950) | F | 4.5 | 1
+1015 | Sunset Boulevard (1950) | M | 4.33 | 6
+1013 | The Godfather: Part II (1974) | F | 3.94 | 8
+1013 | The Godfather: Part II (1974) | M | 4.06 | 9
+1037 | The Lord of the Rings: The Fellowship of the Ring (2001) | F | 3.8 | 10
+1037 | The Lord of the Rings: The Fellowship of the Ring (2001) | M | 4.0 | 8
+1039 | The Lord of the Rings: The Return of the King (2003) | F | 3.9 | 5
+1039 | The Lord of the Rings: The Return of the King (2003) | M | 3.75 | 6
+1030 | The Silence of the Lambs (1991) | F | 3.0 | 4
+1030 | The Silence of the Lambs (1991) | M | 3.33 | 3
+1047 | The Social Network (2010) | F | 3.67 | 3
+1047 | The Social Network (2010) | M | 4.0 | 4
+1025 | The Terminator (1984) | F | 4.14 | 11
+1025 | The Terminator (1984) | M | 3.93 | 7

@@ -1,0 +1,7 @@
+Bài 6 - Điểm trung bình theo năm
+================================
+Year | AvgRating | TotalRatings
+-------------------------------
+2020 | 3.75 | 184
+
+Run all success: Hoàn thành 6 bài Spark RDD.
