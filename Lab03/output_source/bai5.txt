@@ -1,0 +1,18 @@
+Bài 5 - Điểm trung bình theo nghề nghiệp
+========================================
+OccupationID | Occupation | AvgRating | TotalRatings
+----------------------------------------------------
+1 | Programmer | 4.25 | 10
+12 | Designer | 4.0 | 13
+15 | Student | 4.0 | 8
+14 | Consultant | 3.86 | 14
+8 | Nurse | 3.86 | 11
+11 | Journalist | 3.85 | 17
+6 | Artist | 3.73 | 11
+4 | Teacher | 3.7 | 5
+2 | Doctor | 3.69 | 21
+5 | Lawyer | 3.65 | 17
+9 | Salesperson | 3.65 | 17
+10 | Accountant | 3.58 | 6
+3 | Engineer | 3.56 | 18
+7 | Manager | 3.47 | 16

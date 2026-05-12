@@ -1,0 +1,16 @@
+Bài 2 - Điểm trung bình theo thể loại
+=====================================
+Genre | AvgRating | TotalRatings
+--------------------------------
+Film-Noir | 4.36 | 7
+Horror | 4.0 | 2
+Mystery | 4.0 | 2
+Fantasy | 3.86 | 29
+Crime | 3.81 | 42
+Drama | 3.76 | 128
+Sci-Fi | 3.73 | 54
+Action | 3.71 | 54
+Thriller | 3.7 | 27
+Family | 3.67 | 18
+Adventure | 3.63 | 83
+Biography | 3.56 | 25
